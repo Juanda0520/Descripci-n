@@ -75,14 +75,5 @@ Me considero una persona **proactiva, comprometida y adaptable**, apasionado por
   <a href="tel:+573122563585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
-
-## Estadísticas de GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&show_icons=true&hide=contribs&custom_title=JUAN%20DANIEL%20LATORRE%20OCAMPO%20—%20GitHub%20Stats" />
-</p>
-
-
 
 
