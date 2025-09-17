@@ -4,14 +4,6 @@ Actualmente me desempeño como **Analista SOC**, monitoreando, analizando y resp
 
 Me considero una persona **proactiva, comprometida y adaptable**, apasionado por la **tecnología, la ciberseguridad y el aprendizaje continuo**.  
 
----
-
-## 🌟 Frase que me inspira:
-
-> **Es 100% seguro que pierdas si no lo intentas, pero si lo intentas ese porcentaje cambia a tu favor.**  
-
----
-
 ## 🎯 Tecnologías que más uso:
 
 <p align="center">
