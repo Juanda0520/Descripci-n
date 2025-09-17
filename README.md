@@ -79,11 +79,9 @@ Me considero una persona **proactiva, comprometida y adaptable**, apasionado por
 
 ## Estadísticas de GitHub:
 
+<p align="center"><strong>JUAN DANIEL LATORRE OCAMPO</strong></p>
 <p align="center">
-  <strong>JUAN DANIEL LATORRE OCAMPO</strong>  
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&show_icons=true&hide=contribs&hide_title=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanda&theme=tokyonight&show_icons=true&hide=contribs" />
-</p>
 
